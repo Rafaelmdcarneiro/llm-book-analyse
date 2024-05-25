@@ -1,0 +1,30 @@
+```bash
+: 1
+.azw3: 1
+.cbr: 2
+.cbz: 15
+.css: 1
+.csv: 1
+.db: 7
+.doc: 20
+.docx: 1
+.epub: 68
+.gif: 27
+.htm: 1
+.html: 1
+.htmlz: 4
+.jpeg: 1
+.jpg: 7343
+.json: 1
+.mobi: 229
+.odt: 4
+.opf: 984
+.pdf: 7328
+.png: 91
+.prc: 1
+.rar: 4
+.rtf: 60
+.txt: 105
+.xml: 1
+.zip: 165
+```
